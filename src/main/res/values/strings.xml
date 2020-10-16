@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Messages</string>
+    <string name="messages">You can type your own personal motivational messages and retrieve them using the refresh button above!</string>
+    <string name="writePage">Write text!</string>
+    <string name="save">Save!</string>
+    <string name="load">Load text!</string>
+    <string name="retrieve">Retrieve text!</string>
+    <string name="title_activity_write_text">writeText</string>
+    <string name="delete">Delete All</string>
+
+
+</resources>
